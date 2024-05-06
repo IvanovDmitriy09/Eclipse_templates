@@ -146,6 +146,21 @@
 				</configuration>
 			</storageModule>
 			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+			<storageModule moduleId="ilg.gnumcueclipse.managedbuild.packs">
+				<option id="cmsis.device.name" value="GD32F405RE"/>
+				<option id="cmsis.subfamily.name" value="GD32F405"/>
+				<option id="cmsis.family.name" value="GD32F4xx Series"/>
+				<option id="cmsis.device.vendor.name" value="GigaDevice"/>
+				<option id="cmsis.device.vendor.id" value="123"/>
+				<option id="cmsis.device.pack.vendor" value="GigaDevice"/>
+				<option id="cmsis.device.pack.name" value="GD32F4xx_DFP"/>
+				<option id="cmsis.device.pack.version" value="3.0.3"/>
+				<option id="cmsis.core.name" value="Cortex-M4"/>
+				<option id="cmsis.compiler.define" value="GD32F405"/>
+				<memory section="IRAM1" size="0x020000" start="0x20000000" startup="0"/>
+				<memory section="IRAM2" size="0x010000" start="0x10000000" startup="0"/>
+				<memory section="IROM1" size="0x080000" start="0x08000000" startup="1"/>
+			</storageModule>
 		</cconfiguration>
 		<cconfiguration id="ilg.gnuarmeclipse.managedbuild.cross.config.elf.release.1099168357">
 			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="ilg.gnuarmeclipse.managedbuild.cross.config.elf.release.1099168357" moduleId="org.eclipse.cdt.core.settings" name="Release">

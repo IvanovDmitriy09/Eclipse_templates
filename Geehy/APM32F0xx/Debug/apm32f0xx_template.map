@@ -134,7 +134,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x35 ./system/src/newlib/assert.o
  .debug_macro   0x0000000000000000      0x51a ./system/src/newlib/assert.o
  .debug_line    0x0000000000000000      0x426 ./system/src/newlib/assert.o
- .debug_str     0x0000000000000000     0x85ee ./system/src/newlib/assert.o
+ .debug_str     0x0000000000000000     0x85fc ./system/src/newlib/assert.o
  .comment       0x0000000000000000       0x3a ./system/src/newlib/assert.o
  .debug_frame   0x0000000000000000       0x2c ./system/src/newlib/assert.o
  .ARM.attributes
@@ -244,7 +244,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x35 ./system/src/newlib/cxx.o
  .debug_macro   0x0000000000000000      0x51a ./system/src/newlib/cxx.o
  .debug_line    0x0000000000000000      0x606 ./system/src/newlib/cxx.o
- .debug_str     0x0000000000000000     0x99cf ./system/src/newlib/cxx.o
+ .debug_str     0x0000000000000000     0x99dd ./system/src/newlib/cxx.o
  .comment       0x0000000000000000       0x3a ./system/src/newlib/cxx.o
  .debug_frame   0x0000000000000000       0x40 ./system/src/newlib/cxx.o
  .ARM.attributes
@@ -773,7 +773,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x250 ./system/src/cortexm/reset-hardware.o
  .debug_macro   0x0000000000000000      0x4a3 ./system/src/cortexm/reset-hardware.o
  .debug_line    0x0000000000000000      0x1c8 ./system/src/cortexm/reset-hardware.o
- .debug_str     0x0000000000000000     0x5fc8 ./system/src/cortexm/reset-hardware.o
+ .debug_str     0x0000000000000000     0x5fd6 ./system/src/cortexm/reset-hardware.o
  .comment       0x0000000000000000       0x3a ./system/src/cortexm/reset-hardware.o
  .debug_frame   0x0000000000000000       0x38 ./system/src/cortexm/reset-hardware.o
  .ARM.attributes
@@ -921,7 +921,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x4a3 ./system/src/apm32f0xx/apm32f0xx_adc.o
  .debug_macro   0x0000000000000000       0x22 ./system/src/apm32f0xx/apm32f0xx_adc.o
  .debug_line    0x0000000000000000      0x7af ./system/src/apm32f0xx/apm32f0xx_adc.o
- .debug_str     0x0000000000000000     0x6caf ./system/src/apm32f0xx/apm32f0xx_adc.o
+ .debug_str     0x0000000000000000     0x6cbd ./system/src/apm32f0xx/apm32f0xx_adc.o
  .comment       0x0000000000000000       0x3a ./system/src/apm32f0xx/apm32f0xx_adc.o
  .debug_frame   0x0000000000000000      0x2f4 ./system/src/apm32f0xx/apm32f0xx_adc.o
  .ARM.attributes
@@ -1009,7 +1009,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x250 ./system/src/apm32f0xx/apm32f0xx_can.o
  .debug_macro   0x0000000000000000      0x4a3 ./system/src/apm32f0xx/apm32f0xx_can.o
  .debug_line    0x0000000000000000      0xf27 ./system/src/apm32f0xx/apm32f0xx_can.o
- .debug_str     0x0000000000000000     0x748b ./system/src/apm32f0xx/apm32f0xx_can.o
+ .debug_str     0x0000000000000000     0x7499 ./system/src/apm32f0xx/apm32f0xx_can.o
  .comment       0x0000000000000000       0x3a ./system/src/apm32f0xx/apm32f0xx_can.o
  .debug_frame   0x0000000000000000      0x220 ./system/src/apm32f0xx/apm32f0xx_can.o
  .ARM.attributes
@@ -1079,7 +1079,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x250 ./system/src/apm32f0xx/apm32f0xx_cec.o
  .debug_macro   0x0000000000000000      0x4a3 ./system/src/apm32f0xx/apm32f0xx_cec.o
  .debug_line    0x0000000000000000      0x469 ./system/src/apm32f0xx/apm32f0xx_cec.o
- .debug_str     0x0000000000000000     0x6791 ./system/src/apm32f0xx/apm32f0xx_cec.o
+ .debug_str     0x0000000000000000     0x679f ./system/src/apm32f0xx/apm32f0xx_cec.o
  .comment       0x0000000000000000       0x3a ./system/src/apm32f0xx/apm32f0xx_cec.o
  .debug_frame   0x0000000000000000      0x154 ./system/src/apm32f0xx/apm32f0xx_cec.o
  .ARM.attributes
@@ -1135,7 +1135,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x4a3 ./system/src/apm32f0xx/apm32f0xx_comp.o
  .debug_macro   0x0000000000000000       0x1c ./system/src/apm32f0xx/apm32f0xx_comp.o
  .debug_line    0x0000000000000000      0x3d1 ./system/src/apm32f0xx/apm32f0xx_comp.o
- .debug_str     0x0000000000000000     0x64bb ./system/src/apm32f0xx/apm32f0xx_comp.o
+ .debug_str     0x0000000000000000     0x64c9 ./system/src/apm32f0xx/apm32f0xx_comp.o
  .comment       0x0000000000000000       0x3a ./system/src/apm32f0xx/apm32f0xx_comp.o
  .debug_frame   0x0000000000000000       0xcc ./system/src/apm32f0xx/apm32f0xx_comp.o
  .ARM.attributes
@@ -1197,7 +1197,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x250 ./system/src/apm32f0xx/apm32f0xx_crc.o
  .debug_macro   0x0000000000000000      0x4a3 ./system/src/apm32f0xx/apm32f0xx_crc.o
  .debug_line    0x0000000000000000      0x395 ./system/src/apm32f0xx/apm32f0xx_crc.o
- .debug_str     0x0000000000000000     0x62a1 ./system/src/apm32f0xx/apm32f0xx_crc.o
+ .debug_str     0x0000000000000000     0x62af ./system/src/apm32f0xx/apm32f0xx_crc.o
  .comment       0x0000000000000000       0x3a ./system/src/apm32f0xx/apm32f0xx_crc.o
  .debug_frame   0x0000000000000000      0x108 ./system/src/apm32f0xx/apm32f0xx_crc.o
  .ARM.attributes
@@ -1273,7 +1273,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x250 ./system/src/apm32f0xx/apm32f0xx_crs.o
  .debug_macro   0x0000000000000000      0x4a3 ./system/src/apm32f0xx/apm32f0xx_crs.o
  .debug_line    0x0000000000000000      0x451 ./system/src/apm32f0xx/apm32f0xx_crs.o
- .debug_str     0x0000000000000000     0x672d ./system/src/apm32f0xx/apm32f0xx_crs.o
+ .debug_str     0x0000000000000000     0x673b ./system/src/apm32f0xx/apm32f0xx_crs.o
  .comment       0x0000000000000000       0x3a ./system/src/apm32f0xx/apm32f0xx_crs.o
  .debug_frame   0x0000000000000000      0x178 ./system/src/apm32f0xx/apm32f0xx_crs.o
  .ARM.attributes
@@ -1353,7 +1353,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x4a3 ./system/src/apm32f0xx/apm32f0xx_dac.o
  .debug_macro   0x0000000000000000       0x2e ./system/src/apm32f0xx/apm32f0xx_dac.o
  .debug_line    0x0000000000000000      0x5b5 ./system/src/apm32f0xx/apm32f0xx_dac.o
- .debug_str     0x0000000000000000     0x6b46 ./system/src/apm32f0xx/apm32f0xx_dac.o
+ .debug_str     0x0000000000000000     0x6b54 ./system/src/apm32f0xx/apm32f0xx_dac.o
  .comment       0x0000000000000000       0x3a ./system/src/apm32f0xx/apm32f0xx_dac.o
  .debug_frame   0x0000000000000000      0x190 ./system/src/apm32f0xx/apm32f0xx_dac.o
  .ARM.attributes
@@ -1399,7 +1399,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x250 ./system/src/apm32f0xx/apm32f0xx_dbg.o
  .debug_macro   0x0000000000000000      0x4a3 ./system/src/apm32f0xx/apm32f0xx_dbg.o
  .debug_line    0x0000000000000000      0x274 ./system/src/apm32f0xx/apm32f0xx_dbg.o
- .debug_str     0x0000000000000000     0x6144 ./system/src/apm32f0xx/apm32f0xx_dbg.o
+ .debug_str     0x0000000000000000     0x6152 ./system/src/apm32f0xx/apm32f0xx_dbg.o
  .comment       0x0000000000000000       0x3a ./system/src/apm32f0xx/apm32f0xx_dbg.o
  .debug_frame   0x0000000000000000       0x90 ./system/src/apm32f0xx/apm32f0xx_dbg.o
  .ARM.attributes
@@ -1459,7 +1459,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x250 ./system/src/apm32f0xx/apm32f0xx_dma.o
  .debug_macro   0x0000000000000000      0x4a3 ./system/src/apm32f0xx/apm32f0xx_dma.o
  .debug_line    0x0000000000000000      0x521 ./system/src/apm32f0xx/apm32f0xx_dma.o
- .debug_str     0x0000000000000000     0x7ddb ./system/src/apm32f0xx/apm32f0xx_dma.o
+ .debug_str     0x0000000000000000     0x7de9 ./system/src/apm32f0xx/apm32f0xx_dma.o
  .comment       0x0000000000000000       0x3a ./system/src/apm32f0xx/apm32f0xx_dma.o
  .debug_frame   0x0000000000000000      0x108 ./system/src/apm32f0xx/apm32f0xx_dma.o
  .ARM.attributes
@@ -1509,7 +1509,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x4a3 ./system/src/apm32f0xx/apm32f0xx_eint.o
  .debug_macro   0x0000000000000000       0x28 ./system/src/apm32f0xx/apm32f0xx_eint.o
  .debug_line    0x0000000000000000      0x38d ./system/src/apm32f0xx/apm32f0xx_eint.o
- .debug_str     0x0000000000000000     0x66f8 ./system/src/apm32f0xx/apm32f0xx_eint.o
+ .debug_str     0x0000000000000000     0x6706 ./system/src/apm32f0xx/apm32f0xx_eint.o
  .comment       0x0000000000000000       0x3a ./system/src/apm32f0xx/apm32f0xx_eint.o
  .debug_frame   0x0000000000000000       0x90 ./system/src/apm32f0xx/apm32f0xx_eint.o
  .ARM.attributes
@@ -1611,7 +1611,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x4a3 ./system/src/apm32f0xx/apm32f0xx_fmc.o
  .debug_macro   0x0000000000000000       0x94 ./system/src/apm32f0xx/apm32f0xx_fmc.o
  .debug_line    0x0000000000000000      0xb30 ./system/src/apm32f0xx/apm32f0xx_fmc.o
- .debug_str     0x0000000000000000     0x6a56 ./system/src/apm32f0xx/apm32f0xx_fmc.o
+ .debug_str     0x0000000000000000     0x6a64 ./system/src/apm32f0xx/apm32f0xx_fmc.o
  .comment       0x0000000000000000       0x3a ./system/src/apm32f0xx/apm32f0xx_fmc.o
  .debug_frame   0x0000000000000000      0x2d4 ./system/src/apm32f0xx/apm32f0xx_fmc.o
  .ARM.attributes
@@ -1669,7 +1669,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x250 ./system/src/apm32f0xx/apm32f0xx_gpio.o
  .debug_macro   0x0000000000000000      0x4a3 ./system/src/apm32f0xx/apm32f0xx_gpio.o
  .debug_line    0x0000000000000000      0x4f0 ./system/src/apm32f0xx/apm32f0xx_gpio.o
- .debug_str     0x0000000000000000     0x6986 ./system/src/apm32f0xx/apm32f0xx_gpio.o
+ .debug_str     0x0000000000000000     0x6994 ./system/src/apm32f0xx/apm32f0xx_gpio.o
  .comment       0x0000000000000000       0x3a ./system/src/apm32f0xx/apm32f0xx_gpio.o
  .debug_frame   0x0000000000000000       0xfc ./system/src/apm32f0xx/apm32f0xx_gpio.o
  .ARM.attributes
@@ -1837,7 +1837,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x4a3 ./system/src/apm32f0xx/apm32f0xx_i2c.o
  .debug_macro   0x0000000000000000       0x64 ./system/src/apm32f0xx/apm32f0xx_i2c.o
  .debug_line    0x0000000000000000      0xb03 ./system/src/apm32f0xx/apm32f0xx_i2c.o
- .debug_str     0x0000000000000000     0x7347 ./system/src/apm32f0xx/apm32f0xx_i2c.o
+ .debug_str     0x0000000000000000     0x7355 ./system/src/apm32f0xx/apm32f0xx_i2c.o
  .comment       0x0000000000000000       0x3a ./system/src/apm32f0xx/apm32f0xx_i2c.o
  .debug_frame   0x0000000000000000      0x46c ./system/src/apm32f0xx/apm32f0xx_i2c.o
  .ARM.attributes
@@ -1885,7 +1885,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x250 ./system/src/apm32f0xx/apm32f0xx_iwdt.o
  .debug_macro   0x0000000000000000      0x4a3 ./system/src/apm32f0xx/apm32f0xx_iwdt.o
  .debug_line    0x0000000000000000      0x274 ./system/src/apm32f0xx/apm32f0xx_iwdt.o
- .debug_str     0x0000000000000000     0x612e ./system/src/apm32f0xx/apm32f0xx_iwdt.o
+ .debug_str     0x0000000000000000     0x613c ./system/src/apm32f0xx/apm32f0xx_iwdt.o
  .comment       0x0000000000000000       0x3a ./system/src/apm32f0xx/apm32f0xx_iwdt.o
  .debug_frame   0x0000000000000000       0x90 ./system/src/apm32f0xx/apm32f0xx_iwdt.o
  .ARM.attributes
@@ -1937,7 +1937,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x4a3 ./system/src/apm32f0xx/apm32f0xx_misc.o
  .debug_macro   0x0000000000000000       0x10 ./system/src/apm32f0xx/apm32f0xx_misc.o
  .debug_line    0x0000000000000000      0x38a ./system/src/apm32f0xx/apm32f0xx_misc.o
- .debug_str     0x0000000000000000     0x637f ./system/src/apm32f0xx/apm32f0xx_misc.o
+ .debug_str     0x0000000000000000     0x638d ./system/src/apm32f0xx/apm32f0xx_misc.o
  .comment       0x0000000000000000       0x3a ./system/src/apm32f0xx/apm32f0xx_misc.o
  .debug_frame   0x0000000000000000       0xb4 ./system/src/apm32f0xx/apm32f0xx_misc.o
  .ARM.attributes
@@ -1983,7 +1983,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x250 ./system/src/apm32f0xx/apm32f0xx_ob.o
  .debug_macro   0x0000000000000000      0x4a3 ./system/src/apm32f0xx/apm32f0xx_ob.o
  .debug_line    0x0000000000000000      0x24a ./system/src/apm32f0xx/apm32f0xx_ob.o
- .debug_str     0x0000000000000000     0x625e ./system/src/apm32f0xx/apm32f0xx_ob.o
+ .debug_str     0x0000000000000000     0x626c ./system/src/apm32f0xx/apm32f0xx_ob.o
  .comment       0x0000000000000000       0x3a ./system/src/apm32f0xx/apm32f0xx_ob.o
  .debug_frame   0x0000000000000000       0x80 ./system/src/apm32f0xx/apm32f0xx_ob.o
  .ARM.attributes
@@ -2041,7 +2041,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x250 ./system/src/apm32f0xx/apm32f0xx_pmu.o
  .debug_macro   0x0000000000000000      0x4a3 ./system/src/apm32f0xx/apm32f0xx_pmu.o
  .debug_line    0x0000000000000000      0x424 ./system/src/apm32f0xx/apm32f0xx_pmu.o
- .debug_str     0x0000000000000000     0x659a ./system/src/apm32f0xx/apm32f0xx_pmu.o
+ .debug_str     0x0000000000000000     0x65a8 ./system/src/apm32f0xx/apm32f0xx_pmu.o
  .comment       0x0000000000000000       0x3a ./system/src/apm32f0xx/apm32f0xx_pmu.o
  .debug_frame   0x0000000000000000       0xf0 ./system/src/apm32f0xx/apm32f0xx_pmu.o
  .ARM.attributes
@@ -2204,7 +2204,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x250 ./system/src/apm32f0xx/apm32f0xx_rcm.o
  .debug_macro   0x0000000000000000      0x4a3 ./system/src/apm32f0xx/apm32f0xx_rcm.o
  .debug_line    0x0000000000000000      0xc7a ./system/src/apm32f0xx/apm32f0xx_rcm.o
- .debug_str     0x0000000000000000     0x7412 ./system/src/apm32f0xx/apm32f0xx_rcm.o
+ .debug_str     0x0000000000000000     0x7420 ./system/src/apm32f0xx/apm32f0xx_rcm.o
  .comment       0x0000000000000000       0x3a ./system/src/apm32f0xx/apm32f0xx_rcm.o
  .debug_frame   0x0000000000000000      0x474 ./system/src/apm32f0xx/apm32f0xx_rcm.o
  .ARM.attributes
@@ -2370,7 +2370,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x4a3 ./system/src/apm32f0xx/apm32f0xx_rtc.o
  .debug_macro   0x0000000000000000       0xc1 ./system/src/apm32f0xx/apm32f0xx_rtc.o
  .debug_line    0x0000000000000000     0x1410 ./system/src/apm32f0xx/apm32f0xx_rtc.o
- .debug_str     0x0000000000000000     0x7627 ./system/src/apm32f0xx/apm32f0xx_rtc.o
+ .debug_str     0x0000000000000000     0x7635 ./system/src/apm32f0xx/apm32f0xx_rtc.o
  .comment       0x0000000000000000       0x3a ./system/src/apm32f0xx/apm32f0xx_rtc.o
  .debug_frame   0x0000000000000000      0x55c ./system/src/apm32f0xx/apm32f0xx_rtc.o
  .ARM.attributes
@@ -2490,7 +2490,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x250 ./system/src/apm32f0xx/apm32f0xx_spi.o
  .debug_macro   0x0000000000000000      0x4a3 ./system/src/apm32f0xx/apm32f0xx_spi.o
  .debug_line    0x0000000000000000      0x8b7 ./system/src/apm32f0xx/apm32f0xx_spi.o
- .debug_str     0x0000000000000000     0x7044 ./system/src/apm32f0xx/apm32f0xx_spi.o
+ .debug_str     0x0000000000000000     0x7052 ./system/src/apm32f0xx/apm32f0xx_spi.o
  .comment       0x0000000000000000       0x3a ./system/src/apm32f0xx/apm32f0xx_spi.o
  .debug_frame   0x0000000000000000      0x2f0 ./system/src/apm32f0xx/apm32f0xx_spi.o
  .ARM.attributes
@@ -2544,7 +2544,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x250 ./system/src/apm32f0xx/apm32f0xx_syscfg.o
  .debug_macro   0x0000000000000000      0x4a3 ./system/src/apm32f0xx/apm32f0xx_syscfg.o
  .debug_line    0x0000000000000000      0x3d7 ./system/src/apm32f0xx/apm32f0xx_syscfg.o
- .debug_str     0x0000000000000000     0x650e ./system/src/apm32f0xx/apm32f0xx_syscfg.o
+ .debug_str     0x0000000000000000     0x651c ./system/src/apm32f0xx/apm32f0xx_syscfg.o
  .comment       0x0000000000000000       0x3a ./system/src/apm32f0xx/apm32f0xx_syscfg.o
  .debug_frame   0x0000000000000000       0xc0 ./system/src/apm32f0xx/apm32f0xx_syscfg.o
  .ARM.attributes
@@ -2788,7 +2788,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x250 ./system/src/apm32f0xx/apm32f0xx_tmr.o
  .debug_macro   0x0000000000000000      0x4a3 ./system/src/apm32f0xx/apm32f0xx_tmr.o
  .debug_line    0x0000000000000000     0x14df ./system/src/apm32f0xx/apm32f0xx_tmr.o
- .debug_str     0x0000000000000000     0x8158 ./system/src/apm32f0xx/apm32f0xx_tmr.o
+ .debug_str     0x0000000000000000     0x8166 ./system/src/apm32f0xx/apm32f0xx_tmr.o
  .comment       0x0000000000000000       0x3a ./system/src/apm32f0xx/apm32f0xx_tmr.o
  .debug_frame   0x0000000000000000      0x7b4 ./system/src/apm32f0xx/apm32f0xx_tmr.o
  .ARM.attributes
@@ -2960,7 +2960,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x250 ./system/src/apm32f0xx/apm32f0xx_usart.o
  .debug_macro   0x0000000000000000      0x4a3 ./system/src/apm32f0xx/apm32f0xx_usart.o
  .debug_line    0x0000000000000000      0xf13 ./system/src/apm32f0xx/apm32f0xx_usart.o
- .debug_str     0x0000000000000000     0x7751 ./system/src/apm32f0xx/apm32f0xx_usart.o
+ .debug_str     0x0000000000000000     0x775f ./system/src/apm32f0xx/apm32f0xx_usart.o
  .comment       0x0000000000000000       0x3a ./system/src/apm32f0xx/apm32f0xx_usart.o
  .debug_frame   0x0000000000000000      0x4ac ./system/src/apm32f0xx/apm32f0xx_usart.o
  .ARM.attributes
@@ -3008,7 +3008,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x250 ./system/src/apm32f0xx/apm32f0xx_wwdt.o
  .debug_macro   0x0000000000000000      0x4a3 ./system/src/apm32f0xx/apm32f0xx_wwdt.o
  .debug_line    0x0000000000000000      0x292 ./system/src/apm32f0xx/apm32f0xx_wwdt.o
- .debug_str     0x0000000000000000     0x6253 ./system/src/apm32f0xx/apm32f0xx_wwdt.o
+ .debug_str     0x0000000000000000     0x6261 ./system/src/apm32f0xx/apm32f0xx_wwdt.o
  .comment       0x0000000000000000       0x3a ./system/src/apm32f0xx/apm32f0xx_wwdt.o
  .debug_frame   0x0000000000000000       0xa0 ./system/src/apm32f0xx/apm32f0xx_wwdt.o
  .ARM.attributes
@@ -3132,7 +3132,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x11 ./src/write.o
  .debug_macro   0x0000000000000000      0xa8a ./src/write.o
  .debug_line    0x0000000000000000       0x2f ./src/write.o
- .debug_str     0x0000000000000000     0x2d27 ./src/write.o
+ .debug_str     0x0000000000000000     0x2d35 ./src/write.o
  .comment       0x0000000000000000       0x3a ./src/write.o
  .ARM.attributes
                 0x0000000000000000       0x2c ./src/write.o
@@ -4166,36 +4166,36 @@ END GROUP
  .debug_frame   0x00000000000003ac       0x70 ./src/timer.o
  .debug_frame   0x000000000000041c       0x20 c:/users/andrey/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/12.2.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
 
-.debug_str      0x0000000000000000     0xdfd6
+.debug_str      0x0000000000000000     0xdfe4
  *(.debug_str)
- .debug_str     0x0000000000000000     0x79a1 ./system/src/newlib/exit.o
-                                       0x7b07 (size before relaxing)
- .debug_str     0x00000000000079a1      0x4df ./system/src/newlib/sbrk.o
-                                       0x6eea (size before relaxing)
- .debug_str     0x0000000000007e80      0xbb9 ./system/src/newlib/startup.o
-                                       0x6596 (size before relaxing)
- .debug_str     0x0000000000008a39     0x153e ./system/src/newlib/syscalls.o
-                                       0x8ea4 (size before relaxing)
- .debug_str     0x0000000000009f77     0x2ad5 ./system/src/diag/trace-impl.o
-                                       0x9dc5 (size before relaxing)
- .debug_str     0x000000000000ca4c      0x7f6 ./system/src/diag/trace.o
-                                       0x827b (size before relaxing)
- .debug_str     0x000000000000d242      0x109 ./system/src/cortexm/exception-handlers.o
-                                       0xad2d (size before relaxing)
- .debug_str     0x000000000000d34b       0x4d ./system/src/cortexm/initialize-hardware.o
-                                       0x5fc0 (size before relaxing)
- .debug_str     0x000000000000d398      0x7ce ./system/src/cmsis/system_apm32f0xx.o
-                                       0x674f (size before relaxing)
- .debug_str     0x000000000000db66       0x57 ./system/src/cmsis/vectors_apm32f0xx.o
-                                       0x38c3 (size before relaxing)
- .debug_str     0x000000000000dbbd       0x6c ./src/main.o
-                                       0xb38e (size before relaxing)
- .debug_str     0x000000000000dc29      0x240 ./src/timer.o
-                                       0x6297 (size before relaxing)
- .debug_str     0x000000000000de69      0x13b c:/users/andrey/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/12.2.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
- .debug_str     0x000000000000dfa4       0x1c c:/users/andrey/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/12.2.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .debug_str     0x0000000000000000     0x79af ./system/src/newlib/exit.o
+                                       0x7b15 (size before relaxing)
+ .debug_str     0x00000000000079af      0x4df ./system/src/newlib/sbrk.o
+                                       0x6ef8 (size before relaxing)
+ .debug_str     0x0000000000007e8e      0xbb9 ./system/src/newlib/startup.o
+                                       0x65a4 (size before relaxing)
+ .debug_str     0x0000000000008a47     0x153e ./system/src/newlib/syscalls.o
+                                       0x8eb2 (size before relaxing)
+ .debug_str     0x0000000000009f85     0x2ad5 ./system/src/diag/trace-impl.o
+                                       0x9dd3 (size before relaxing)
+ .debug_str     0x000000000000ca5a      0x7f6 ./system/src/diag/trace.o
+                                       0x8289 (size before relaxing)
+ .debug_str     0x000000000000d250      0x109 ./system/src/cortexm/exception-handlers.o
+                                       0xad3b (size before relaxing)
+ .debug_str     0x000000000000d359       0x4d ./system/src/cortexm/initialize-hardware.o
+                                       0x5fce (size before relaxing)
+ .debug_str     0x000000000000d3a6      0x7ce ./system/src/cmsis/system_apm32f0xx.o
+                                       0x675d (size before relaxing)
+ .debug_str     0x000000000000db74       0x57 ./system/src/cmsis/vectors_apm32f0xx.o
+                                       0x38d1 (size before relaxing)
+ .debug_str     0x000000000000dbcb       0x6c ./src/main.o
+                                       0xb39c (size before relaxing)
+ .debug_str     0x000000000000dc37      0x240 ./src/timer.o
+                                       0x62a5 (size before relaxing)
+ .debug_str     0x000000000000de77      0x13b c:/users/andrey/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/12.2.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .debug_str     0x000000000000dfb2       0x1c c:/users/andrey/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/12.2.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
                                         0x13c (size before relaxing)
- .debug_str     0x000000000000dfc0       0x16 c:/users/andrey/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/12.2.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libgcc.a(_thumb1_case_shi.o)
+ .debug_str     0x000000000000dfce       0x16 c:/users/andrey/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/12.2.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libgcc.a(_thumb1_case_shi.o)
                                         0x136 (size before relaxing)
 
 .debug_loc
