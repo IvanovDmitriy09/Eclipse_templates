@@ -59,16 +59,22 @@ static void ConfigMasterClock(void);
 
 #ifdef MASTER_CLOCK_HXT
     static void MasterClockHXT(void);
+    uint32_t SystemCoreClock = MASTER_CLOCK_HXT;
 #elif defined MASTER_CLOCK_6MHz
     static void MasterClock6M(void);
+    uint32_t SystemCoreClock = MASTER_CLOCK_6MHz;
 #elif defined MASTER_CLOCK_12MHz
     static void MasterClock12M(void);
+    uint32_t SystemCoreClock = MASTER_CLOCK_12MHz;
 #elif defined MASTER_CLOCK_24MHz
     static void MasterClock24M(void);
+    uint32_t SystemCoreClock = MASTER_CLOCK_24MHz;
 #elif defined MASTER_CLOCK_48MHz
     static void MasterClock48M(void);
+    uint32_t SystemCoreClock = MASTER_CLOCK_48MHz;
 #elif defined MASTER_CLOCK_LIRC
     static void MasterClockLIRC(void);
+    uint32_t SystemCoreClock = MASTER_CLOCK_LIRC;
 #endif
 
 /*!
@@ -103,6 +109,23 @@ void SystemInit (void)
     SCB->VTOR = SRAM_BASE | VECT_TAB_OFFSET;
 #else
     SCB->VTOR = FMC_BASE | VECT_TAB_OFFSET;
+#endif
+}
+
+extern void SystemCoreClockUpdate(void)
+{
+#ifdef MASTER_CLOCK_HXT
+	SystemCoreClock = MASTER_CLOCK_HXT;
+#elif defined MASTER_CLOCK_6MHz
+    SystemCoreClock = MASTER_CLOCK_6MHz;
+#elif defined MASTER_CLOCK_12MHz
+    SystemCoreClock = MASTER_CLOCK_12MHz;
+#elif defined MASTER_CLOCK_24MHz
+    SystemCoreClock = MASTER_CLOCK_24MHz;
+#elif defined MASTER_CLOCK_48MHz
+    SystemCoreClock = MASTER_CLOCK_48MHz;
+#elif defined MASTER_CLOCK_LIRC
+    SystemCoreClock = MASTER_CLOCK_LIRC;
 #endif
 }
 

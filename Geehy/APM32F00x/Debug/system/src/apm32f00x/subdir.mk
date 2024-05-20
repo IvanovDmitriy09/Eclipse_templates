@@ -10,6 +10,7 @@ C_SRCS += \
 ../system/src/apm32f00x/apm32f00x_fmc.c \
 ../system/src/apm32f00x/apm32f00x_gpio.c \
 ../system/src/apm32f00x/apm32f00x_i2c.c \
+../system/src/apm32f00x/apm32f00x_int.c \
 ../system/src/apm32f00x/apm32f00x_iwdt.c \
 ../system/src/apm32f00x/apm32f00x_misc.c \
 ../system/src/apm32f00x/apm32f00x_rcm.c \
@@ -28,6 +29,7 @@ OBJS += \
 ./system/src/apm32f00x/apm32f00x_fmc.o \
 ./system/src/apm32f00x/apm32f00x_gpio.o \
 ./system/src/apm32f00x/apm32f00x_i2c.o \
+./system/src/apm32f00x/apm32f00x_int.o \
 ./system/src/apm32f00x/apm32f00x_iwdt.o \
 ./system/src/apm32f00x/apm32f00x_misc.o \
 ./system/src/apm32f00x/apm32f00x_rcm.o \
@@ -46,6 +48,7 @@ C_DEPS += \
 ./system/src/apm32f00x/apm32f00x_fmc.d \
 ./system/src/apm32f00x/apm32f00x_gpio.d \
 ./system/src/apm32f00x/apm32f00x_i2c.d \
+./system/src/apm32f00x/apm32f00x_int.d \
 ./system/src/apm32f00x/apm32f00x_iwdt.d \
 ./system/src/apm32f00x/apm32f00x_misc.d \
 ./system/src/apm32f00x/apm32f00x_rcm.d \

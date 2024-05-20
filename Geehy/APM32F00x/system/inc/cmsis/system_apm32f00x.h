@@ -45,6 +45,7 @@
 */
 
 extern void SystemInit(void);
+extern void SystemCoreClockUpdate(void);
 extern uint32_t SystemCoreClock;
 /**@} end of group System_Functions */
 /**@} end of group APM32F00x_System */
